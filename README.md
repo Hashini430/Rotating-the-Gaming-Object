@@ -59,7 +59,7 @@ public class rotatee : MonoBehaviour
 ```
 
 ## Output:
-![exp 01 AR VR](https://github.com/user-attachments/assets/8f0d0463-55a2-49f3-804e-53e87388e71b)
+![Alt text](<Screenshot from 2025-03-15 14-20-48.png>)
 
 
 ## Result:
